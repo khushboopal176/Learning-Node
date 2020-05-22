@@ -1,8 +1,11 @@
 ## Static Content may be an HTML page, an image, or a CSS file. Let's see how you can display those pretty pages for the users.
 
+> Just a reminder, please run `npm init` in this folder to get started.
+
 ### Requirements
 
 1. You have completed setting up a basic web server.
+
 
 ### Steps
 

@@ -2,7 +2,7 @@
 
 ### Requirements
 
-1. You know about installing packages from npm
+1. You know about installing packages from npm. The folders in this series are supposed to be standalone node.js projects. Before starting any part of the series, please run `npm init` in the folder. You are provided with `ref.js` in each folder for reference but you are expected to make a separate file `index.js` for working. 
 
 ### Steps
 
