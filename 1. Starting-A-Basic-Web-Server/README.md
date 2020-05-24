@@ -7,7 +7,7 @@
 ### Steps
 
 1. The package we'll be using for this purpose is [express](https://www.npmjs.com/package/express). It is a server-side Web Framework for Node.js and offers the skeleton in which you can plug any templating engine or database. Don't worry if you don't understand templating yet.
-    > Install the express package
+    > Install the express package by running `npm install express`
 
 2. To see a website in action, you need a URL. A URL is composed of 2 parts: **Hostname** and **Route**. 
     > In `github.com/parasg1999`, `github.com` is the hostname and `/parasg1999` is the route.
